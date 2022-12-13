@@ -37,6 +37,10 @@ matplotlib
 
 ---
 
+**File:** [Sharpe Ratio](SharpeRatio.ipynb)
+
+---
+
 ## Step 1: Get the data
 
 Use the yFinance library to get data
